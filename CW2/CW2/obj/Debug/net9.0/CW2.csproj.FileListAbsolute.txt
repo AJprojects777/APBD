@@ -1,0 +1,14 @@
+C:\Users\antek\RiderProjects\CW2\CW2\bin\Debug\net9.0\CW2.exe
+C:\Users\antek\RiderProjects\CW2\CW2\bin\Debug\net9.0\CW2.deps.json
+C:\Users\antek\RiderProjects\CW2\CW2\bin\Debug\net9.0\CW2.runtimeconfig.json
+C:\Users\antek\RiderProjects\CW2\CW2\bin\Debug\net9.0\CW2.dll
+C:\Users\antek\RiderProjects\CW2\CW2\bin\Debug\net9.0\CW2.pdb
+C:\Users\antek\RiderProjects\CW2\CW2\obj\Debug\net9.0\CW2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antek\RiderProjects\CW2\CW2\obj\Debug\net9.0\CW2.AssemblyInfoInputs.cache
+C:\Users\antek\RiderProjects\CW2\CW2\obj\Debug\net9.0\CW2.AssemblyInfo.cs
+C:\Users\antek\RiderProjects\CW2\CW2\obj\Debug\net9.0\CW2.csproj.CoreCompileInputs.cache
+C:\Users\antek\RiderProjects\CW2\CW2\obj\Debug\net9.0\CW2.dll
+C:\Users\antek\RiderProjects\CW2\CW2\obj\Debug\net9.0\refint\CW2.dll
+C:\Users\antek\RiderProjects\CW2\CW2\obj\Debug\net9.0\CW2.pdb
+C:\Users\antek\RiderProjects\CW2\CW2\obj\Debug\net9.0\CW2.genruntimeconfig.cache
+C:\Users\antek\RiderProjects\CW2\CW2\obj\Debug\net9.0\ref\CW2.dll
