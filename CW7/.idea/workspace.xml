@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd309865-4d1d-4c8b-817e-be0f2501504a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/appsettings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/WebApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/WebApp.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/WebApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/WebApp.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/WebApp.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/WebApp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
@@ -43,8 +44,10 @@
   },
   "keyToStringList": {
     "DatabaseDriversLRU": [
+      "oracle",
       "mysql",
-      "oracle"
+      "sqlserver.localdb",
+      "sqlserver"
     ]
   }
 }]]></component>
